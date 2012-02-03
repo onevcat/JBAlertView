@@ -4,8 +4,6 @@ JBAlertView
 JBAlertView is an alert view custom with more style: JBAlertViewStyleDefault, JBAlertViewStyleConnection, JBAlertViewStyleError, ...
 It's really easy to use and customize
 
-<a href="www.jeanbaptistecastro.com"> jeanbaptistecastro.com</a>
-
 How to use
 ==========
 
