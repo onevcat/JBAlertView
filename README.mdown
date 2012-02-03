@@ -20,7 +20,9 @@ Use
 
 Create a JBAlertView : 
 
-
+``` objective-c
+[JBAlertView];
+```
 
 Contact
 =======
