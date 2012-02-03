@@ -21,8 +21,15 @@ Use
 Create a JBAlertView : 
 
 ``` objective-c
-[JBAlertView];
+[JBAlertView alertInView:view 
+                      ofStyle:JBAlertViewStyle* 
+                   withTitle:title 
+                   andDetail:detail 
+                   hideAfter:time];
 ```
+
+The JBAlertViewStyle are `JBAlertViewStyleDefault`, `JBAlertViewStyleConnection` and `JBAlertViewStyleError` but more in project.
+
 
 Contact
 =======
