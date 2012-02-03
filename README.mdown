@@ -1,2 +1,12 @@
-TEST
+JBAlertView
+===========
+
+JBAlertView is an alert view custom with more style: JBAlertViewStyleDefault, JBAlertViewStyleConnection, JBAlertViewStyleError, ...
+It's really easy to use and customize
+
+How to use
 ==========
+
+* Add the folder `JBAlertView` in your project with `JBAlertView.h.m.xib`, `default.png` and `error.png`
+* Import the `JBAlertView.h` 
+* Use it !
