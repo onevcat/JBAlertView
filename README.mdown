@@ -4,14 +4,14 @@ JBAlertView
 JBAlertView is an alert view custom with more style: JBAlertViewStyleDefault, JBAlertViewStyleConnection, JBAlertViewStyleError, ...
 It's really easy to use and customize !
 
-Full ARC support.
+Check the `Screenshot` folder for demo.
 
 [jeanbaptistecastro.com](http://jeanbaptistecastro.com)
 
 Installation
 ==========
 
-* Add the folder `JBAlertView` in your project with `JBAlertView.h.m.xib`, `default.png` and `error.png`
+* Add the `JBAlertView` folder in your project with `JBAlertView.h.m.xib`, `default.png` and `error.png`
 * Import the `JBAlertView.h` 
 * Use it !
 
@@ -30,10 +30,10 @@ Create a JBAlertView :
 
 The JBAlertViewStyle are `JBAlertViewStyleDefault`, `JBAlertViewStyleConnection` and `JBAlertViewStyleError` but more in project.
 
-Screenshot
-==========
+ARC
+===
 
-![Sample](https://github.com/jbaptistecastro/JBAlertView/Screenshot/screenshot1.png "Sample")
+This is full ARC support !
 
 Contact
 =======
