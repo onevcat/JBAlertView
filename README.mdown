@@ -20,7 +20,7 @@ Use
 
 Create a JBAlertView : 
 
-;; [JBAlertView ]
+
 
 Contact
 =======
