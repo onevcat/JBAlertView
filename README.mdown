@@ -30,6 +30,10 @@ Create a JBAlertView :
 
 The JBAlertViewStyle are `JBAlertViewStyleDefault`, `JBAlertViewStyleConnection` and `JBAlertViewStyleError` but more in project.
 
+Screenshot
+==========
+
+![Sample](https://github.com/jbaptistecastro/JBAlertView/Screenshot/screenshot1.png "Sample")
 
 Contact
 =======
